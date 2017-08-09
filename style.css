@@ -47,7 +47,20 @@ body {
 }
 
 p {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-family: Futura;
 	font-size: 11pt;
 	clear: both;
+}
+
+.txt{
+	font-size: 45px;
+	font-family: Futura;
+	text-align: center;
+	color: #3a3637;
+	padding-top: 10px;
+}
+
+@font-face {
+    font-family: Futura;
+    src: url(assets/fonts/Futura-Medium.woff);
 }
