@@ -56,10 +56,41 @@ p {
 .txt{
 	font-size: 45px;
 	font-family: Futura;
-	text-align: center;
+	text-align: right;
 	color: #3a3637;
 	padding-top: 10px;
 }
+
+.caption{
+	font-family: Futura;
+	font-size: 10pt;
+	color: #3a3637;
+	padding-bottom: 5px;
+}
+
+.fullcap{
+	font-family: Futura;
+	font-size: 12pt;
+	color: #3a3637;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #657953;
+}
+
+a:link {
+	text-decoration: none;
+	color: #657953;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #666666;
+}
+
 
 @font-face {
     font-family: Futura;
