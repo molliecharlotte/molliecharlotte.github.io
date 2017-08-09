@@ -30,6 +30,7 @@ header{
 }
 
 body {
+	width: 100%;
 	background-image: url(assets/watercolorbg.jpg);
 	background-repeat: repeat-y;
 	background-size: cover;
